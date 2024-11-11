@@ -244,6 +244,7 @@ body {
 .footer-home,
 .footer-about,
 .footer-contact {
+  color: rgba(10, 54, 65, 1);
   text-decoration: none;
   cursor: pointer;
 }
